@@ -3,3 +3,4 @@
 ## Day1
 
 - 어노테이션
+- GET, POST API 실습
