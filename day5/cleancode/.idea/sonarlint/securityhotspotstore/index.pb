@@ -27,16 +27,10 @@ X
 0src/main/java/me/sungbin/step4/InputHandler.java,a/7/a76d728f2772af99f799e2b7efe844c3312468e4
 a
 1src/main/java/me/sungbin/step4/OutputHandler.java,d/8/d84b303624ee700c838804c5bbd00bf3a0b30d3d
-^
-.src/main/java/me/sungbin/step4/RollResult.java,9/7/973fa31d4d113f07268b47567d54f910942306b7
 c
 3src/main/java/me/sungbin/step4/DiceRollHandler.java,f/b/fb4ee3e5a8f7ed2c9d399a127b73cdb1618bc53d
 \
 ,src/main/java/me/sungbin/step4/DiceGame.java,3/6/364725be4ef9167192978f828d57d0e1b3d75df8
-c
-3src/main/java/me/sungbin/step4/DynamicDiceGame.java,7/9/79c6fbc579d77d68bc7b9b93242cfd018156563a
-a
-1src/main/java/me/sungbin/step4/test/DiceGame.java,6/3/6384716e08e27f8e16cea1848df718749953cae8
 d
 4src/main/java/me/sungbin/step4/DiceRollStrategy.java,0/4/048d4638b5763a4510d22623cabd0f28627095b8
 l
