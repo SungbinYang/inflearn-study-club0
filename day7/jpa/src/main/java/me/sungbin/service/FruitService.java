@@ -56,8 +56,6 @@ public class FruitService {
     public void updateFruitInfo(UpdateFruitRequestDto requestDto) {
         Fruit fruit = this.fruitRepository.findById(requestDto.getId()).orElseThrow(IllegalArgumentException::new);
         fruit.updateSoldInfo(true);
-
-        this.fruitRepository.save(fruit);
     }
 
     /**
